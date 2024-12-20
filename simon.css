@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: #ebe9e1;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.red{
+    background-color: rgb(243, 69, 104) ;
+}
+
+.yellow{
+    background-color: rgb(246, 165, 67);
+}
+
+.green{
+    background-color: rgb(174, 243, 105);
+}
+
+.purple{
+    background-color: rgb(157, 73, 236);
+}
+
+.white{
+    background-color: white;
+}
